@@ -25,7 +25,7 @@ const users = [
   {
     name: "Kitkat",
     img: "https://chocosweets.net/img/product_images/919_30.jpg",
-    soum: "3$",
+    soum: "42",
     description: "Rich in carbohydrates"
   },
 ];

@@ -7,7 +7,7 @@ function Product ({name,img,soum,description}) {
 
 return (
 <>
-<h1> Product</h1>
+<h1 > Product</h1>
 <Image img={img}   />
 <Name esmou={name} />
 <Price soum={soum}/>
